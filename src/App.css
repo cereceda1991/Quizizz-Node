@@ -1,0 +1,10 @@
+body {
+  padding: 2rem;
+  background-color: black;
+  align-items: center;
+}
+
+.container_quizizz {
+  border: 2px solid gray;
+  border-radius: 10px;
+}
